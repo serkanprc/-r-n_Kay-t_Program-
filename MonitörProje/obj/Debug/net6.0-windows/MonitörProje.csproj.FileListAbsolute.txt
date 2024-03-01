@@ -1,0 +1,62 @@
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.exe
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.deps.json
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.runtimeconfig.json
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.pdb
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.KullaniciGiris.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.ÜrünKaydetmeVeDüzenleme.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.ÜrünListelemeVeArama.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.İstatistik.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.GenerateResource.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.AssemblyInfoInputs.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.AssemblyInfo.cs
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.CoreCompileInputs.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\refint\MonitörProje.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.pdb
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.genruntimeconfig.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\ref\MonitörProje.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.Properties.Resources.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.AssemblyReference.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.CopyComplete
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.panel.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.Düzenle.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.kullanıcıpanel.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.exe
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.deps.json
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.runtimeconfig.json
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\MonitörProje.pdb
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.Düzenle.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.KullaniciGiris.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.kullanıcıpanel.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.panel.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.Properties.Resources.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.ÜrünKaydetmeVeDüzenleme.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.ÜrünListelemeVeArama.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.İstatistik.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörP.A345F3C4.Up2Date
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\refint\MonitörProje.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.pdb
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\MonitörProje.genruntimeconfig.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\MonitörProje\MonitörProje\obj\Debug\net6.0-windows\ref\MonitörProje.dll
