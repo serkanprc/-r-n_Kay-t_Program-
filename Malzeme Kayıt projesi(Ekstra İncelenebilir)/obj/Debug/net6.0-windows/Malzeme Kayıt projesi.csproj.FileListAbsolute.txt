@@ -1,0 +1,48 @@
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.exe
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.deps.json
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.runtimeconfig.json
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.pdb
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.AssemblyReference.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme_Kayıt_projesi.Form1.resources
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.GenerateResource.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.AssemblyInfoInputs.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.AssemblyInfo.cs
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.CoreCompileInputs.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.CopyComplete
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\refint\Malzeme Kayıt projesi.dll
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.pdb
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.genruntimeconfig.cache
+C:\Users\Seko\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\ref\Malzeme Kayıt projesi.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.exe
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.deps.json
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.runtimeconfig.json
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\Malzeme Kayıt projesi.pdb
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme_Kayıt_projesi.Form1.resources
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme .57821153.Up2Date
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\refint\Malzeme Kayıt projesi.dll
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.pdb
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\Malzeme Kayıt projesi.genruntimeconfig.cache
+C:\Users\Serkan\Desktop\MASAÜSTÜ\YAZILIM\3. SINIF\3. SINIF 1. DÖNEM\Görsel Programlama\Malzeme Kayıt projesi\Malzeme Kayıt projesi\obj\Debug\net6.0-windows\ref\Malzeme Kayıt projesi.dll
